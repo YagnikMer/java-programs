@@ -10,4 +10,5 @@ prime number
 -
 palindrome numer
 -
-fabonacci series
+Fabonacci series
+-
