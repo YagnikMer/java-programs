@@ -12,3 +12,7 @@ palindrome numer
 -
 Fabonacci series
 -
+Binary to decimal
+-
+decimal to binary
+-
